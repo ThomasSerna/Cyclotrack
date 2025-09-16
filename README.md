@@ -4,5 +4,5 @@ CycloTrack es un proyecto final universitario desarrollado en Java, diseñado pa
 
 ## Autores
 
-- **Thomas Serna**
-- **David Alzate**
+- **Thomas Serna Saldarriaga**
+- **David Alzate Monroy**
